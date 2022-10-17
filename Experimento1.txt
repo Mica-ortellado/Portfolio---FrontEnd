@@ -1,3 +1,0 @@
-Experimento 1
-Git add, Git push
-Prueba 1
