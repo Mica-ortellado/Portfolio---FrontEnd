@@ -1,0 +1,38 @@
+.navbar.navbar-expand-lg.bg-dark{
+    background: rgb(0,0,0);
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(40,0,113,1) 50%, rgba(255,255,255,1) 95%);
+}
+i.fa-brands.fa-instagram.fa-xxl:hover{
+    color: rgb(218, 75, 118);
+}
+i.fa-brands.fa-linkedin-in.fa-xxl:hover{
+    color: rgb(57, 126, 255);
+}
+i.fa-regular.fa-envelope.fa-xxl:hover{
+    color: rgb(46, 179, 116);
+}
+i.fa-solid.fa-person-to-portal:hover{
+    color:rgb(88, 88, 209);
+}
+.list-group{
+    --bs-list-group-bg:transparent !important;
+    --bs-list-group-border-color: transparent !important;
+}
+.modal-header{
+    background: rgb(0,0,0);
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(40,0,113,1) 50%, rgba(255,255,255,1) 95%);
+}
+.modal-title.fs-6{
+    color: beige;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.modal-body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.modal-footer{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.btn.btn-color{
+    color: beige;
+    background-color: rgb(56, 8, 146);
+}
