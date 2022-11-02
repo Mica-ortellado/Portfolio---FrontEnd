@@ -134,5 +134,8 @@ i.fa-solid.fa-user-pen:hover{
     }
     .perfil-usuario .icono-perfil {
         display: inline-block;
-    }
+    }    
+}
+.about {
+    margin-top: 08%;
 }
