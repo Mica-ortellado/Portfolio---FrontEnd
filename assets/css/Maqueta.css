@@ -14,6 +14,9 @@ i.fa-regular.fa-envelope.fa-xxl:hover{
 i.fa-solid.fa-user-pen:hover{
     color:#6c2ee0;
 }
+i.fa-solid.fa-bars {
+    color: #ffffff;
+}
 .list-group{
     --bs-list-group-bg:transparent !important;
     --bs-list-group-border-color: transparent !important;
@@ -136,6 +139,13 @@ i.fa-solid.fa-user-pen:hover{
         display: inline-block;
     }    
 }
-.about {
-    margin-top: 08%;
+#about .container-ab{
+    padding-top: 08%;
+    border-top: #000000 solid;
+    border-bottom: solid #000000;
+}
+.container-ed {
+    background-color: #8753e9;
+    padding-top: 08%;
+    border-bottom: solid #000000;
 }
